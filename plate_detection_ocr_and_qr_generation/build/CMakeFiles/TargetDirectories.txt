@@ -1,0 +1,3 @@
+/home/bacter/Documents/projects/android_things_project/build/CMakeFiles/lpr_qr_display.dir
+/home/bacter/Documents/projects/android_things_project/build/CMakeFiles/edit_cache.dir
+/home/bacter/Documents/projects/android_things_project/build/CMakeFiles/rebuild_cache.dir
